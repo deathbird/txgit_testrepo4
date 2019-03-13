@@ -1,13 +1,16 @@
 # FIRST AUTHOR <email@address>, YEAR.
-#
+# 
+# Translators:
+# Giannos Dimas <jack_dimas@yahoo.com>, 2019
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Transifex\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-03-29 12:41+0000\n"
-"PO-Revision-Date: 2018-03-29 12:43+0000\n"
-"Last-Translator: Transifex\n"
-"Language-Team: English (http://www.transifex.com/transifex/transifex/language/en/)\n"
+"PO-Revision-Date: 2019-03-13 13:33+0000\n"
+"Last-Translator: Giannos Dimas <jack_dimas@yahoo.com>, 2019\n"
+"Language-Team: Greek (https://www.transifex.com/journeyman-ltd/teams/97168/el/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,12 +19,12 @@ msgstr ""
 
 #: actionlog/templates/object_action_list.html:7 txpermissions/forms.py:18
 msgid "Username"
-msgstr ""
+msgstr "Username greek"
 
 #: actionlog/templates/object_action_list.html:8
 msgid "Lastname"
-msgstr ""
+msgstr "Lastname greek"
 
 #: foo/templates/bar.html:180
 msgid "Address"
-msgstr ""
+msgstr "Address greek"
